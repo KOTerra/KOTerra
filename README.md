@@ -1,7 +1,7 @@
 ### Hello there 👋
 ### General Kenobi 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyjd8x8oz7ehk6dxcsw5l8kwl&cover_image=true&theme=default&show_offline=true&background_color=4f526b&interchange=true&bar_color=4eb1a6&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyjd8x8oz7ehk6dxcsw5l8kwl&cover_image=true&theme=default&show_offline=true&background_color=4f526b&interchange=true&bar_color=4eb1a6&bar_color_cover=true)](https://open.spotify.com/user/xyjd8x8oz7ehk6dxcsw5l8kwl)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOTerra&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 #
 <!--
