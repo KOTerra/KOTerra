@@ -1,6 +1,6 @@
 ### Hello there 👋
 ### General Kenobi 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOTerra&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 <!--
 **KOTerra/KOTerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
