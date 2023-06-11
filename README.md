@@ -2,20 +2,18 @@
 ### General Kenobi 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOTerra&theme=ocean-gradient&hide_border=true)](https://github.com/KOTerra)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyjd8x8oz7ehk6dxcsw5l8kwl&cover_image=true&theme=default&show_offline=true&background_color=4f526b&interchange=true&bar_color=4eb1a6&bar_color_cover=true)](https://open.spotify.com/user/xyjd8x8oz7ehk6dxcsw5l8kwl)
-#
-<!--
-**KOTerra/KOTerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="top">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=KOTerra&theme=ocean-gradient&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KOTerra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KOTerra&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+    
 
-Here are some ideas to get you started:
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xyjd8x8oz7ehk6dxcsw5l8kwl&cover_image=true&theme=default&show_offline=true&background_color=4f526b&interchange=true&bar_color=4eb1a6&bar_color_cover=true">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
